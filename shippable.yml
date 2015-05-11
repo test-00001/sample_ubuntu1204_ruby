@@ -1,6 +1,6 @@
 language: ruby
 
-build_image: shippableimages/ubuntu1204_ruby
+build_image: shippableimages/ubuntu1404_ruby
 
 rvm:
   - 2.1.1
